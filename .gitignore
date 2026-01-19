@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# W&B artifacts
+wandb/
+
+# Model checkpoints and logs
+*.pth
+*.pt
+checkpoints/
+logs/
+
+# Video recordings
+videos/
+*.mp4
+
+# Temporary files
+*.tmp
+*.temp
